@@ -1,6 +1,6 @@
-//Assignment 3
+//Aassignment 3 updated
 //input/output/operator
-# include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -13,12 +13,14 @@ float y;
 
 cout << "Enter your name: ";
 getline (cin, a);
-cout << "Enter integer x=  ";
+cout << "Enter integer x= ";
 cin >> x;
-cout << "Enter double y=  ";
+cout << "Enter decimal y= ";
 cin >> y;
-cout << "Hi " << a <<  " I've calculated that " <<  "x+y = "<<  x+y << " and " << "x-y = " << x-y <<  endl;
+
+cout << "Hi " << a <<  " I've calculated that " <<  x  << " + " <<  y  << " = " <<  x+y << ", and " <<  x  << " - " <<  y  << " = " << x-y <<  endl;
 
 return 0;
 
 }
+  
