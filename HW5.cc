@@ -1,5 +1,5 @@
 // input outpu Assignment 5.
-// Combine use loops & conditions.t 
+// Combine use loops & conditions.
 #include<iostream>
 #include<string>
 
