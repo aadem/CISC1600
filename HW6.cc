@@ -1,4 +1,4 @@
-//Assignment 6 Add/sub/factorial Function!
+//Assignment 6 Add/sub/factorial Function.
 //input/output
 #include <iostream>
 #include <string>
