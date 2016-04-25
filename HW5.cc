@@ -1,5 +1,9 @@
 // input outpu Assignment 5.
+<<<<<<< HEAD
 // Combine use loops & conditions. 
+=======
+// Combine use loops & conditions.
+>>>>>>> 0cf8d3264d38dd95378f6bd53370caa930315c58
 #include<iostream>
 #include<string>
 
